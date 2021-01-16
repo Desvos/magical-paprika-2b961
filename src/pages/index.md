@@ -6,9 +6,8 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: The best solution in our field
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: |
+      A young company with a fresh building for your projects
     actions:
       - label: Learn More
         url: /features
